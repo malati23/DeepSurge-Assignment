@@ -1,0 +1,22 @@
+input {
+  margin: 3px;
+  padding: 5px;
+}
+
+button {
+  margin: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  background-color: #f0f0f0;
+}
